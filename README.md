@@ -39,4 +39,4 @@ This is a Streamlit web application that generates creative prompts for film pho
 
 ## Notes
 
-- This application is built on the Additive Prompting ideas of [
+- This application is built on the Additive Prompting ideas of [@nickfloats](https://twitter.com/nickfloats) on Twitter
